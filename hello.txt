@@ -1,7 +1,7 @@
 hello hch hello
 hello hch hello
+<<<<<<< HEAD
 hello hch hello woshimaster
-hello hch hello
 hello hch hello
 hello hch hello
 hello hch hello
